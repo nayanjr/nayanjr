@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Full stack through a masters in applied computer Science
+- 🌱 Full stack developer and recently graduated from Northwest Missouri state University with a masters in applied computer Science
 
