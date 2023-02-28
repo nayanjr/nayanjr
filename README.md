@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Full stack developer with 5 Years of experience in Software Development involving Analysis, Design, Implementation, Testing of Application Software, recently graduated from Northwest Missouri state University with a masters in Applied Computer Science
+- 🌱 Full stack developer with experience in Software Development involving Analysis, Design, Implementation, Testing of Application Software, recently graduated from Northwest Missouri state University with a masters in Applied Computer Science
 
 
 ## 🌐 Socials:
